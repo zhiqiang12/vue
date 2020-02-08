@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-scll
 
 > A Vue.js project
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-Dome
+>>>>>>> 166144f13ecf492f2d881a04d26f03670fd1b44b
